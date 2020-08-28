@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/RubenHetKonijn/rksoftware/master/hub.ahk,Software Hub,
+https://raw.githubusercontent.com/RubenHetKonijn/rksoftware/master/hub.ahk,Software Hub,Software Hub for RubenKnijn's Software
 ⚫
